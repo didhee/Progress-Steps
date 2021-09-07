@@ -9,4 +9,12 @@ This project is a recreation of Brad Traversy's 'Progress Steps' of 50 days of c
 - JavaScript
 
 ## Live Demo
-- 
+- https://didhee.github.io/Progress-Steps/
+
+## Owner 
+- Github [@bradtraversy](https://github.com/bradtraversy)
+
+## Coded by
+- Github [@didhee](https://github.com/didhee)
+- Twitter [@the_didhee](https://twitter.com/the_didhee)
+- Instagram [@the_didhee](https://www.instagram.com/the_didhee)
